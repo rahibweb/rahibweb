@@ -109,7 +109,6 @@ If you find my tools useful, consider supporting development:
 | **EVM** | `0x67f349976d15afa315548914476542576b4F711F` |
 | **TON** | `UQC_JVSuizxwnLczTgkEPAVxsfJXBj1ndMYluX609Q-e0lUo` |
 | **Solana** | `8ufRUkRAzreJZGr3t47zfgEcZgVEUFwsAwvWdy69Kons` |
-| **SUI** | `0xa8f31ac32f0a4ee831e5e2f5b6d3569c764e5b62` |
 
 </div>
 

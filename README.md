@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm RAHIBWEB
 
-### Angular | Web3 Developer
+### Angular Developer | Web3
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/hashycash)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/hasycashtalks)

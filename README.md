@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm RAHIBWEB
 
-### Angular Developer | Web3 Automation Specialist
+### Angular Developer | Web3 Developer
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/hashycash)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/hasycashtalks)
@@ -14,15 +14,16 @@
 
 ## 🚀 About Me
 
-I'm an **Angular Developer** and **Web3 automation specialist** with expertise in both **frontend development** and **blockchain automation**.
+I'm an **Angular** and **Web3 Developer** specializing in blockchain applications, smart contracts, and decentralized technologies.
 
-I create **open-source bots** and utilities to help the crypto community participate in testnets, airdrops, and blockchain projects more effectively. My tools emphasize **reliability**, **security**, and **ease of use**.
+I create **open-source tools** and utilities to help developers and communities interact with blockchain networks more effectively. My projects emphasize **reliability**, **security**, and **ease of use**.
 
 ### 💼 What I Do:
 
-- 🔧 Develop automation tools for blockchain testnets
-- 🤖 Build multi-account management solutions
-- 📊 Create analytics and monitoring systems
+- 🎨 Build Web3 applications with Angular & TypeScript
+- 🔗 Develop smart contract interaction tools
+- 🤖 Create multi-account management solutions
+- 📊 Design analytics and monitoring systems
 - 🛡️ Focus on security and best practices
 - 🌐 Bridge Web2 and Web3 technologies
 
@@ -46,7 +47,8 @@ I create **open-source bots** and utilities to help the crypto community partici
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.py](https://img.shields.io/badge/Web3.py-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Tools & Technologies
@@ -60,16 +62,17 @@ I create **open-source bots** and utilities to help the crypto community partici
 ## 📦 Featured Projects
 
 ### 🤖 [Incentiv Testnet Bot](https://github.com/rahibweb/incentiv-bot)
-Automation bot for Incentiv Testnet with multi-account management, token swaps, and advanced features.
+Open-source automation tool for Incentiv Testnet with multi-account management and advanced Web3 features.
 
-**Tech:** Python, Web3.py, SQLite, Async/Await
+**Tech:** Python, Web3.py, ethers, SQLite, Async/Await
 
 **Features:**
 - 🔐 Account registration & management
 - 💰 Token transfers & swaps
-- 🎯 Bundle actions
+- 🎯 Bundle actions & batch operations
 - 🌐 Proxy support
 - 🔄 Multi-threading
+- 📊 Statistics & analytics
 
 ---
 
@@ -116,10 +119,6 @@ If you find my tools useful, consider supporting development:
 
 <div align="center">
 
-### 🌟 **Star my repos if you find them useful!**
-
-**Made with ❤️ for the Crypto Community**
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahibweb&color=blue&style=flat-square)
+**Made with ❤️ for the Web3 Community**
 
 </div>

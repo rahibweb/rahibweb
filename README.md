@@ -5,7 +5,7 @@
 ### Angular Developer | Web3
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/hashycash)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/hasycashtalks)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/hashycashtalks)
 [![GitHub](https://img.shields.io/badge/GitHub-rahibweb-black?style=for-the-badge&logo=github)](https://github.com/rahibweb)
 
 </div>

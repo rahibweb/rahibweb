@@ -59,13 +59,6 @@ I create **open-source tools** and utilities to help developers and communities 
 
 ---
 
-## 📦 Featured Projects
-
-### 🤖 [Incentiv Testnet Bot](https://github.com/rahibweb/incentiv-bot)
-Open-source automation tool for Incentiv Testnet with multi-account management and advanced Web3 features.
-
-**Tech:** Python, Web3.py, ethers, SQLite, Async/Await
-
 ## 📊 GitHub Stats
 
 <div align="center">

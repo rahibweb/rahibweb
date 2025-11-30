@@ -66,16 +66,6 @@ Open-source automation tool for Incentiv Testnet with multi-account management a
 
 **Tech:** Python, Web3.py, ethers, SQLite, Async/Await
 
-**Features:**
-- 🔐 Account registration & management
-- 💰 Token transfers & swaps
-- 🎯 Bundle actions & batch operations
-- 🌐 Proxy support
-- 🔄 Multi-threading
-- 📊 Statistics & analytics
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
